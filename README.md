@@ -30,7 +30,7 @@ TalkUp is a modern, real-time chat application built with React. Designed for se
     Clone the repository:
     Bash
 
-    git clone https://github.com/your-username/talkup.git
+    git clone https://github.com/Dulanka652/Talkup.git
 
 2. **Navigate to the project folder:**
    ```bash
